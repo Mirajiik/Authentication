@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMrMlh2EtukiE9rjn4NUdg9cbohb5rREkZjvqQfID8LsGbyMbmhqXx+trqPMTZ8aK1QYmqdaxhhzDjcJwZEIcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KirCoreOff\\source\\repos\\OneWayTimestampAuthWithMagmaEncryption\\OneWayTimestampAuthWithMagmaEncryption\\OneWayTimestampAuthWithMagmaEncryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KirCoreOff\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\KirCoreOff\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

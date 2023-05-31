@@ -1,0 +1,15 @@
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\bin\Debug\net6.0\OneWayRNGAuthWithMagma.exe
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\bin\Debug\net6.0\OneWayRNGAuthWithMagma.deps.json
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\bin\Debug\net6.0\OneWayRNGAuthWithMagma.runtimeconfig.json
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\bin\Debug\net6.0\OneWayRNGAuthWithMagma.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\bin\Debug\net6.0\ref\OneWayRNGAuthWithMagma.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\bin\Debug\net6.0\OneWayRNGAuthWithMagma.pdb
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\OneWayRNGAuthWithMagma.csproj.AssemblyReference.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\OneWayRNGAuthWithMagma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\OneWayRNGAuthWithMagma.AssemblyInfoInputs.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\OneWayRNGAuthWithMagma.AssemblyInfo.cs
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\OneWayRNGAuthWithMagma.csproj.CoreCompileInputs.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\OneWayRNGAuthWithMagma.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\ref\OneWayRNGAuthWithMagma.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\OneWayRNGAuthWithMagma.pdb
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\OneWayRNGAuthWithMagma\OneWayRNGAuthWithMagma\obj\Debug\net6.0\OneWayRNGAuthWithMagma.genruntimeconfig.cache
